@@ -25,13 +25,6 @@ This project focuses on advanced database operations in a Library Management Sys
 
 ## 📂 Project Tasks
 
-### 🏗️ Create a Database
-
-```sql
-create database sql_project_p2_part2_advanced_library_analysis;
-```
-
----
 
 ### 🕵️ Task 1: Identify Members with Overdue Books
 
