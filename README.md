@@ -22,6 +22,9 @@ This project focuses on advanced database operations in a Library Management Sys
 4. Customize or expand based on your learning!
 
 ---
+##  EER Diagram 
+  ![image](https://github.com/user-attachments/assets/da31ea7e-0270-4d8b-93ff-fd14b279e97e)
+
 
 ## 📂 Project Tasks
 
